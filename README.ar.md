@@ -34,9 +34,21 @@ lock identity, silhouette, posture, and relation → preserve three cues → com
 
 توجد القيود الجمالية وقواعد الرفض الكاملة في المهارة وتوجيهات الإنتاج. وهي تحفظ دافع النص الأصلي من دون تحويل لوحة 3:4 التاريخية إلى قيمة افتراضية خفية. [SKILL.md](SKILL.md) · [production prompt](references/xxd-panel-054-prompt.en.md)
 
-## النماذج
+## النماذج · من X
 
-لم تُقدّم نماذج بعد. يوثَّق موضعها المحجوز في [assets/examples](assets/examples/README.md). وستعرض النماذج المستقبلية الدافع الجمالي فقط، ولن تصبح مراجع للتوليد أو موضوعات أو تراكيب أو ألواناً أو نصوصاً أو مقاسات افتراضية ثابتة.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091539410533691899) · 23 أغسطس 2026<br>
+> GPT2 × ملصقات × إحساس عتيق × دلائل بصرية × توجيه جمالي × VOL.054
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 054 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 054 نموذج 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 054 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## أربعة مخرجات قابلة للجمع
 
