@@ -14,6 +14,22 @@
 
 Compress the photograph into one narrative main visual and exactly six memory stickers with unequal scale and rank. Matte gouache, cut paper, Risograph, and screen-print texture turn it into a quiet independent-publishing collection page rather than an icon catalogue.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091539410533691899) · 23 August 2026<br>
+> GPT2 × stickers × vintage feel × visual cues × aesthetic prompt × VOL.054
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 054 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 054 sample 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 054 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why this Skill exists
 
 The style is source-dependent, not a decorative preset. Its operative transformation is:
@@ -33,22 +49,6 @@ If an unrelated photograph could replace the source without materially changing 
 - Maintain one focal point through scale contrast, positive-negative shape, overlap, and ample quiet ground.
 
 Aesthetic constraints and rejection rules live only in the [original source brief](references/054-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-054-prompt.en.md)
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091539410533691899) · 23 August 2026<br>
-> GPT2 × stickers × vintage feel × visual cues × aesthetic prompt × VOL.054
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 054 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 054 sample 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 054 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

@@ -14,6 +14,22 @@
 
 将照片压缩为一个承担叙事的主视觉与恰好六枚大小、主次不同的记忆贴纸。哑光水粉、剪纸、Risograph 与丝网印刷质感把它变成安静的独立出版收藏页，而不是图标目录。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091539410533691899) · 2026 年 8 月 23 日<br>
+> GPT2 × 贴纸 × 旧 × 视觉线索 × 美学提示词 × VOL.054
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 054 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 054 样张 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 054 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要这套 Skill
 
 这套风格依赖每一张源图，不是可替换内容的装饰预设。它遵循这条重构链：
@@ -33,22 +49,6 @@
 - 通过尺度反差、正负形、遮挡和大面积安静底色维持一个主焦点。
 
 原始审美约束与拒绝项只存在于[原始提示词](references/054-source.md)；Skill 与运行适配器只处理本次交付变量。 [Skill 工作流](SKILL.md) · [英文运行适配器](references/xxd-panel-054-prompt.en.md)
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091539410533691899) · 2026 年 8 月 23 日<br>
-> GPT2 × 贴纸 × 旧 × 视觉线索 × 美学提示词 × VOL.054
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 054 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 054 样张 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 054 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

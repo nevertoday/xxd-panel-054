@@ -14,6 +14,22 @@
 
 تُضغط الصورة إلى مشهد رئيس يحمل السرد وإلى ستة ملصقات للذاكرة بالضبط، متفاوتة في الحجم والرتبة. وتحولها خامة الغواش المطفي والورق المقصوص والريزوغراف والطباعة الحريرية إلى صفحة جمع هادئة مستقلة، لا فهرس أيقونات.
 
+## النماذج · من X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091539410533691899) · 23 أغسطس 2026<br>
+> GPT2 × ملصقات × إحساس عتيق × دلائل بصرية × توجيه جمالي × VOL.054
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 054 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 054 نموذج 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 054 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
 ## لماذا توجد هذه المهارة؟
 
 يعتمد الأسلوب على المصدر وليس قالباً زخرفياً يمكن تبديل محتواه. ويتبع سلسلة التحويل الآتية:
@@ -33,22 +49,6 @@ lock identity, silhouette, posture, and relation → preserve three cues → com
 - يبقى مركز بصري واحد بفضل تفاوت الحجم والشكل الموجب والسالب والتراكب والمساحة الهادئة الواسعة.
 
 لا توجد القيود الجمالية وقواعد الرفض إلا في [الموجّه الأصلي](references/054-source.md)، أما المهارة ومهايئ التشغيل فيعالجان متغيرات التسليم فقط. [Skill](SKILL.md) · [مهايئ التشغيل الإنجليزي](references/xxd-panel-054-prompt.en.md)
-
-## النماذج · من X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091539410533691899) · 23 أغسطس 2026<br>
-> GPT2 × ملصقات × إحساس عتيق × دلائل بصرية × توجيه جمالي × VOL.054
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 054 نموذج 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 054 نموذج 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
-
-تعرض هذه النماذج الدافع الجمالي للإصدار 054 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 

@@ -14,6 +14,22 @@
 
 写真を物語の主役一つと、大きさと重要度が異なる正確に六枚の記憶ステッカーへ圧縮します。マットなガッシュ、切り紙、リソグラフ、シルクスクリーンの質感で、アイコン目録ではなく静かな独立出版の収集ページにします。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091539410533691899) · 2026年8月23日<br>
+> GPT2 × ステッカー × 古物感 × 視覚的手掛かり × 美学プロンプト × VOL.054
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 054 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 054 作例 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 054 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## この Skill が必要な理由
 
 このスタイルは元写真に依存し、内容を差し替えられる装飾プリセットではありません。変換は次の因果鎖に従います：
@@ -33,22 +49,6 @@ lock identity, silhouette, posture, and relation → preserve three cues → com
 - 尺度差、正負形、重なり、広い静かな地で焦点を一つに保つ。
 
 美的制約と拒否項目は[原文プロンプト](references/054-source.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-054-prompt.en.md)
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091539410533691899) · 2026年8月23日<br>
-> GPT2 × ステッカー × 古物感 × 視覚的手掛かり × 美学プロンプト × VOL.054
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 054 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 054 作例 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 054 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 
