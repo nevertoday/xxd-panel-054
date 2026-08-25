@@ -10,16 +10,11 @@
 [![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
 [![Output](https://img.shields.io/badge/Output-PNG-4AA1AE?style=flat-square)](#)
 
-<a href="README.md">简体中文</a> SELECTIVE MEMORY · MAIN VISUAL · SIX STICKERS · MATTE PRINT · AIRY BLUE
+<a href="README.md">简体中文</a> · <strong>English</strong> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-Compress the photograph into one narrative main visual and exactly six memory stickers with unequal scale and rank. Matte gouache, cut paper, Risograph, and screen-print texture turn it into a quiet independent-publishing collection page rather than an icon catalogue.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091539410533691899) · 23 August 2026<br>
-> GPT2 × stickers × vintage feel × visual cues × aesthetic prompt × VOL.054
 
 <table>
   <tr>
@@ -28,9 +23,16 @@ Compress the photograph into one narrative main visual and exactly six memory st
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091539410533691899) · 23 August 2026<br>
+> GPT2 × stickers × vintage feel × visual cues × aesthetic prompt × VOL.054
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 054 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+Compress the photograph into one narrative main visual and exactly six memory stickers with unequal scale and rank. Matte gouache, cut paper, Risograph, and screen-print texture turn it into a quiet independent-publishing collection page rather than an icon catalogue.
+
+SELECTIVE MEMORY · MAIN VISUAL · SIX STICKERS · MATTE PRINT · AIRY BLUE
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 054 right for you?

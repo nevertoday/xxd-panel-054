@@ -10,16 +10,11 @@
 [![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
 [![Output](https://img.shields.io/badge/Output-PNG-4AA1AE?style=flat-square)](#)
 
-<a href="README.md">简体中文</a> 選択的記憶 · 主役 · 六枚のステッカー · マット印刷 · 空気感のある青
+<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <strong>日本語</strong> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-写真を物語の主役一つと、大きさと重要度が異なる正確に六枚の記憶ステッカーへ圧縮します。マットなガッシュ、切り紙、リソグラフ、シルクスクリーンの質感で、アイコン目録ではなく静かな独立出版の収集ページにします。
-
 ## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091539410533691899) · 2026年8月23日<br>
-> GPT2 × ステッカー × 古物感 × 視覚的手掛かり × 美学プロンプト × VOL.054
 
 <table>
   <tr>
@@ -28,9 +23,16 @@
   </tr>
 </table>
 
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091539410533691899) · 2026年8月23日<br>
+> GPT2 × ステッカー × 古物感 × 視覚的手掛かり × 美学プロンプト × VOL.054
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899">元の投稿と完全なプロンプトを見る →</a></p>
 
 これらの作例は 054 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
+写真を物語の主役一つと、大きさと重要度が異なる正確に六枚の記憶ステッカーへ圧縮します。マットなガッシュ、切り紙、リソグラフ、シルクスクリーンの質感で、アイコン目録ではなく静かな独立出版の収集ページにします。
+
+選択的記憶 · 主役 · 六枚のステッカー · マット印刷 · 空気感のある青
 
 <!-- xxd-panel-benefit:start -->
 ## すぐに判断：XXD Panel 054 はあなたに合う？

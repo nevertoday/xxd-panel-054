@@ -10,16 +10,11 @@
 [![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
 [![Output](https://img.shields.io/badge/Output-PNG-4AA1AE?style=flat-square)](#)
 
-<a href="README.md">简体中文</a> 선택적 기억 · 주인공 · 여섯 스티커 · 무광 인쇄 · 공기감 있는 파랑
+<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <strong>한국어</strong> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-사진을 이야기를 맡는 하나의 주인공과 크기와 위계가 다른 정확히 여섯 개의 기억 스티커로 압축합니다. 무광 과슈, 종이 오리기, 리소그래프와 실크스크린 질감으로 아이콘 목록이 아닌 고요한 독립 출판 수집 페이지를 만듭니다.
-
 ## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091539410533691899) · 2026년 8월 23일<br>
-> GPT2 × 스티커 × 오래된 감성 × 시각 단서 × 미학 프롬프트 × VOL.054
 
 <table>
   <tr>
@@ -28,9 +23,16 @@
   </tr>
 </table>
 
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091539410533691899) · 2026년 8월 23일<br>
+> GPT2 × 스티커 × 오래된 감성 × 시각 단서 × 미학 프롬프트 × VOL.054
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899">원문 게시물과 전체 프롬프트 보기 →</a></p>
 
 이 예시는 054의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
+사진을 이야기를 맡는 하나의 주인공과 크기와 위계가 다른 정확히 여섯 개의 기억 스티커로 압축합니다. 무광 과슈, 종이 오리기, 리소그래프와 실크스크린 질감으로 아이콘 목록이 아닌 고요한 독립 출판 수집 페이지를 만듭니다.
+
+선택적 기억 · 주인공 · 여섯 스티커 · 무광 인쇄 · 공기감 있는 파랑
 
 <!-- xxd-panel-benefit:start -->
 ## 빠른 판단: XXD Panel 054이 나에게 맞을까요?

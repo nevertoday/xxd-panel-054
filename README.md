@@ -10,16 +10,11 @@
 [![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
 [![Output](https://img.shields.io/badge/Output-PNG-4AA1AE?style=flat-square)](#)
 
-<strong>简体中文</strong> 选择性记忆 · 主视觉 · 六枚贴纸 · 哑光印刷 · 空气感蓝
+<strong>简体中文</strong> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-将照片压缩为一个承担叙事的主视觉与恰好六枚大小、主次不同的记忆贴纸。哑光水粉、剪纸、Risograph 与丝网印刷质感把它变成安静的独立出版收藏页，而不是图标目录。
-
 ## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091539410533691899) · 2026 年 8 月 23 日<br>
-> GPT2 × 贴纸 × 旧 × 视觉线索 × 美学提示词 × VOL.054
 
 <table>
   <tr>
@@ -28,9 +23,16 @@
   </tr>
 </table>
 
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091539410533691899) · 2026 年 8 月 23 日<br>
+> GPT2 × 贴纸 × 旧 × 视觉线索 × 美学提示词 × VOL.054
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091539410533691899">查看原推文与完整提示词 →</a></p>
 
 这些样张用于展示 054 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
+将照片压缩为一个承担叙事的主视觉与恰好六枚大小、主次不同的记忆贴纸。哑光水粉、剪纸、Risograph 与丝网印刷质感把它变成安静的独立出版收藏页，而不是图标目录。
+
+选择性记忆 · 主视觉 · 六枚贴纸 · 哑光印刷 · 空气感蓝
 
 <!-- xxd-panel-benefit:start -->
 ## 快速判断：XXD Panel 054 适合你吗？
