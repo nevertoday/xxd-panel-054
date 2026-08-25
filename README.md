@@ -12,6 +12,8 @@
 
 <strong>简体中文</strong> 选择性记忆 · 主视觉 · 六枚贴纸 · 哑光印刷 · 空气感蓝
 
+</div>
+
 将照片压缩为一个承担叙事的主视觉与恰好六枚大小、主次不同的记忆贴纸。哑光水粉、剪纸、Risograph 与丝网印刷质感把它变成安静的独立出版收藏页，而不是图标目录。
 
 ## 样张 · 来自 X
@@ -246,5 +248,4 @@ XXD 是小小东品牌名的缩写，本项目由小小东创建并维护： [@x
 <td align="center"><a href="https://colors.xiaoxiaodong.ai/docs/images/alipay-reward-qr.png"><img src="https://colors.xiaoxiaodong.ai/docs/images/alipay-reward-qr.png" alt="XXD Alipay reward" width="180"></a><br><strong>Alipay</strong></td>
 </tr></table>
 
-</div>
 </div>

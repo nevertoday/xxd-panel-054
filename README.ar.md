@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> ذاكرة انتقائية · مشهد رئيس · ست ملصقات · طباعة مطفأة · أزرق هوائي
 
+</div>
+
 تُضغط الصورة إلى مشهد رئيس يحمل السرد وإلى ستة ملصقات للذاكرة بالضبط، متفاوتة في الحجم والرتبة. وتحولها خامة الغواش المطفي والورق المقصوص والريزوغراف والطباعة الحريرية إلى صفحة جمع هادئة مستقلة، لا فهرس أيقونات.
 
 ## النماذج · من X
@@ -243,5 +245,4 @@ Knowledge Planet ومكتبة توجيهات الأعضاء عضوية سنوي�
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
-</div>
 </div>

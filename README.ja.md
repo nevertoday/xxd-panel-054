@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> 選択的記憶 · 主役 · 六枚のステッカー · マット印刷 · 空気感のある青
 
+</div>
+
 写真を物語の主役一つと、大きさと重要度が異なる正確に六枚の記憶ステッカーへ圧縮します。マットなガッシュ、切り紙、リソグラフ、シルクスクリーンの質感で、アイコン目録ではなく静かな独立出版の収集ページにします。
 
 ## 作例 · X より
@@ -243,5 +245,4 @@ Knowledge Planet と会員プロンプトライブラリは一つの年会です
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
-</div>
 </div>

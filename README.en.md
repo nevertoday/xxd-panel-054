@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> SELECTIVE MEMORY · MAIN VISUAL · SIX STICKERS · MATTE PRINT · AIRY BLUE
 
+</div>
+
 Compress the photograph into one narrative main visual and exactly six memory stickers with unequal scale and rank. Matte gouache, cut paper, Risograph, and screen-print texture turn it into a quiet independent-publishing collection page rather than an icon catalogue.
 
 ## Samples · From X
@@ -243,5 +245,4 @@ Chinese-language support may use Xiaoxiaodong's own WeChat or Alipay reward code
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
-</div>
 </div>

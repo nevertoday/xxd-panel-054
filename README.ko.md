@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> 선택적 기억 · 주인공 · 여섯 스티커 · 무광 인쇄 · 공기감 있는 파랑
 
+</div>
+
 사진을 이야기를 맡는 하나의 주인공과 크기와 위계가 다른 정확히 여섯 개의 기억 스티커로 압축합니다. 무광 과슈, 종이 오리기, 리소그래프와 실크스크린 질감으로 아이콘 목록이 아닌 고요한 독립 출판 수집 페이지를 만듭니다.
 
 ## 예시 · X에서
@@ -243,5 +245,4 @@ Knowledge Planet과 회원 프롬프트 라이브러리는 하나의 연간 멤�
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
-</div>
 </div>
