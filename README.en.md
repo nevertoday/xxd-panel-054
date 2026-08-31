@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 054
+# 🦁 XXD Panel 054｜Memory Sticker Album
 
 ### Split one memory into a main image and six unequal fragments
 

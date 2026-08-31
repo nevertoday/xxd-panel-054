@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 054
+# 🦁 XXD Panel 054｜思い出シール帳
 
 ### 一つの記憶を主役と不均等な六つの断片に分ける
 

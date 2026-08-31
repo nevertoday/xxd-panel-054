@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 054
+# 🦁 XXD Panel 054｜추억 스티커 앨범
 
 ### 하나의 기억을 주인공과 서로 다른 여섯 조각으로 나누기
 

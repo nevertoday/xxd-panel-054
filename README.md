@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 054
+# 🦁 XXD Panel 054｜记忆贴纸册
 
 ### 把一段记忆拆成主视觉与六枚不等大的碎片
 
