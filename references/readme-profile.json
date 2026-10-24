@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 054｜Memory Sticker Album: compresses a photo into one large main image of three to six flat shapes plus six die-cut memory stickers of different sizes — details picked from the photo such as a feature, a gesture, a plant, an object, food, a pattern or a patch of light — each with a thick pale cut border, loosely scattered and slightly rotated around the main image, never a grid. Everything is matte gouache, cut paper and Risograph or screen-print flat colour with powdery edges, paper grain and slight misregistration, in airy pale blues balanced by ivory, cream and soft grey-green with a touch of dusty rose. A few small free words, not labels for each sticker. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-054 or asks for a sticker-sheet memory collage, scrapbook page or travel-journal stickers from a photo.",
+  "short_description": "记忆贴纸册：把照片拆成一张主视觉和六枚大小不一的切边记忆贴纸，像私人收藏册的一页",
+  "zh-CN": {
+    "name": "记忆贴纸册",
+    "tagline": "把一段记忆拆成一张主视觉和六枚大小不一的贴纸碎片。",
+    "look": "照片被压缩成一张主视觉：只用 3 到 6 个大块面，主体一眼能认。旁边是从照片里挑出的六个局部，比如一个动作、一株植物、一件器物、一份食物、一块纹样或一道光，各做成一枚带厚实浅色切边的贴纸，大小差别明显，错落、轻微旋转地散在主视觉周围，不排成格子。全部用哑光水粉、剪纸和 Risograph 或丝网式平涂，留着粉质边缘、纸张颗粒和套印偏差。颜色以浅粉蓝、雾蓝、天空蓝为主，配象牙白和柔和灰绿，少量灰粉点缀；文字只有几处小字，不给每枚贴纸挨个标注。",
+    "traits": ["旧贴纸", "视觉线索", "选择性记忆", "碎片布局", "叙事"],
+    "good": [
+      "细节丰富、值得挑出局部的旅途照片：一张早餐桌、一条市集小街、一间小店",
+      "有很多小物件的生活场景：书桌、野餐垫、花园一角",
+      "想做成旅行手账页、记忆册或分享合集封面的照片"
+    ],
+    "poor": [
+      "只有一个简单主体、挑不出六个局部的照片：一面墙、一片天空、纯色背景人像",
+      "需要写实还原或完整风景的需求",
+      "想要整齐六宫格、商品贴纸目录、卡通或动漫效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Memory Sticker Album",
+    "tagline": "Splits one memory into a main image and six stickers of unequal size.",
+    "look": "The photo is compressed into one main image built from just three to six large flat shapes, with the subject still instantly recognisable. Around it are six details picked from the photo, such as a gesture, a plant, an object, some food, a pattern or a patch of light, each made into a sticker with a thick pale die-cut border; their sizes differ clearly and they are scattered loosely and slightly rotated around the main image, never in a grid. Everything is matte gouache, cut paper and Risograph or screen-print flat colour, with powdery edges, paper grain and slight misregistration. Colours are mainly pale blue, mist blue and sky blue with ivory and soft grey-green and a touch of dusty rose; text is just a few small words, never a label on every sticker.",
+    "traits": ["Old stickers", "Visual clues", "Selective memory", "Fragment layout", "Storytelling"],
+    "good": [
+      "Detailed travel photos with parts worth picking out: a breakfast table, a market lane, a small shop",
+      "Everyday scenes full of small things: a desk, a picnic blanket, a corner of a garden",
+      "Photos for a travel-journal page, a memory album or the cover of a shared collection"
+    ],
+    "poor": [
+      "Photos with one simple subject and nothing to pick six details from: a wall, an empty sky, a portrait on a plain backdrop",
+      "Requests for realistic rendering or a complete landscape",
+      "Requests for a neat six-grid, a product sticker catalogue, cartoons or anime"
+    ]
+  },
+  "ja": {
+    "name": "思い出シール帳",
+    "tagline": "一つの思い出を、主役の絵と大きさの違う六枚のシールのかけらに分けます。",
+    "look": "写真は三〜六つの大きな平面だけでできた一枚の主役の絵に凝縮され、主役は一目でわかります。そのまわりには、写真から選んだ六つの部分、たとえば仕草、植物、道具、食べ物、模様、光のひとすじが、それぞれ厚い淡色の切り縁をもつシールになり、大きさをはっきり変えて、少し傾けながら主役の絵のまわりに散らばります。格子状には並べません。すべてつや消しのガッシュ、切り紙、リソグラフやシルクスクリーン風のベタ塗りで、粉っぽい縁、紙の粒子、わずかな版ずれが残ります。色は淡いピンクがかった青、霧のような青、空色を中心に、アイボリーと柔らかな灰緑、少しのくすんだローズ。文字は小さな言葉が数か所だけで、シール一枚ずつに説明はつけません。",
+    "traits": ["古いシール", "視覚の手がかり", "選びとった記憶", "かけらの配置", "物語"],
+    "good": [
+      "細部が豊かで、部分を選び出せる旅の写真：朝食のテーブル、市場の小道、小さなお店",
+      "小物の多い暮らしの場面：机の上、ピクニックシート、庭の一角",
+      "旅の手帳のページ、思い出のアルバム、まとめ投稿の表紙にしたい写真"
+    ],
+    "poor": [
+      "主役が一つだけで、六つの部分を選べない写真：壁一面、何もない空、無地背景の人物",
+      "写実的な再現や完全な風景を求める場合",
+      "きっちりした六分割、商品シールのカタログ、キャラクターやアニメ調を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "추억 스티커 앨범",
+    "tagline": "하나의 기억을 주된 그림 하나와 크기가 다른 스티커 조각 여섯 개로 나눕니다.",
+    "look": "사진은 세 개에서 여섯 개의 큰 평면만으로 이루어진 주된 그림 하나로 압축되고, 주인공은 한눈에 알아볼 수 있습니다. 그 주변에는 사진에서 고른 여섯 부분, 예를 들어 몸짓, 식물, 물건, 음식, 무늬, 한 줄기 빛이 각각 두꺼운 연한 칼선 테두리를 가진 스티커가 되어 크기를 분명히 달리하며, 살짝 기울어진 채 주된 그림 주위에 흩어집니다. 격자로 늘어놓지 않습니다. 모두 무광 과슈, 종이 오리기, 리소그래프나 실크스크린 같은 평면 채색으로, 가루 같은 가장자리, 종이 입자, 살짝 어긋난 색판이 남습니다. 색은 연분홍빛 파랑, 안개빛 파랑, 하늘색을 중심으로 아이보리와 부드러운 회녹색, 약간의 더스티 로즈를 씁니다. 글자는 작은 단어 몇 군데뿐이며 스티커마다 설명을 달지 않습니다.",
+    "traits": ["오래된 스티커", "시각적 단서", "선택된 기억", "조각 배치", "이야기"],
+    "good": [
+      "세부가 풍부해 부분을 골라낼 수 있는 여행 사진: 아침 식탁, 시장 골목, 작은 가게",
+      "작은 물건이 많은 생활 장면: 책상 위, 피크닉 매트, 정원 한쪽",
+      "여행 다이어리 페이지, 추억 앨범, 모음 게시물 표지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "주인공이 하나뿐이라 여섯 부분을 고를 수 없는 사진: 벽 한 면, 텅 빈 하늘, 단색 배경 인물 사진",
+      "사실적인 재현이나 완전한 풍경을 원하는 경우",
+      "반듯한 6칸 격자, 상품 스티커 카탈로그, 만화나 애니메이션 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ألبوم ملصقات الذكريات",
+    "tagline": "يقسم ذكرى واحدة إلى صورة رئيسية وستة ملصقات غير متساوية الحجم.",
+    "look": "تُختصر الصورة في صورة رئيسية واحدة مبنية من ثلاث إلى ست كتل مسطحة كبيرة فقط، ويبقى الموضوع معروفاً من النظرة الأولى. حولها ستة تفاصيل منتقاة من الصورة، كإيماءة أو نبتة أو غرض أو طعام أو نقش أو بقعة ضوء، يتحول كل منها إلى ملصق بحافة مقصوصة سميكة فاتحة اللون، تتفاوت أحجامها بوضوح وتتناثر بحرية مع ميل خفيف حول الصورة الرئيسية، لا في شبكة. كل شيء بألوان غواش مطفأة وورق مقصوص وألوان مسطحة على طريقة الريزوغراف أو الطباعة الحريرية، مع حواف بودرية وحبيبات ورق وانزياح خفيف في الطباعة. الألوان أساساً أزرق وردي فاتح وأزرق ضبابي وأزرق سماوي مع العاجي والأخضر الرمادي الناعم ولمسة من الوردي الباهت، والنص بضع كلمات صغيرة فقط، لا تعليق على كل ملصق.",
+    "traits": ["ملصقات قديمة", "مفاتيح بصرية", "ذاكرة انتقائية", "توزيع الشظايا", "سرد"],
+    "good": [
+      "صور سفر غنية بالتفاصيل فيها أجزاء تستحق الانتقاء: مائدة إفطار، زقاق سوق، متجر صغير",
+      "مشاهد يومية مليئة بالأشياء الصغيرة: مكتب، بساط نزهة، زاوية حديقة",
+      "صور لصفحة دفتر رحلات أو ألبوم ذكريات أو غلاف مجموعة صور تشاركها"
+    ],
+    "poor": [
+      "صور فيها موضوع واحد بسيط لا يمكن انتقاء ستة تفاصيل منه: جدار، سماء فارغة، صورة شخصية على خلفية سادة",
+      "طلب واقعية في الرسم أو منظر طبيعي كامل",
+      "طلب شبكة سداسية منتظمة أو كتالوج ملصقات تجارية أو رسوم كرتونية أو أنمي"
+    ]
+  }
+}
